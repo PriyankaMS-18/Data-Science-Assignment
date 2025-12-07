@@ -52,7 +52,8 @@ Libraries Used:
 
 ## Author
 Priyanka M S
-[📧 priyankams180203@gmail.com](mailto:your-priyankams180203@gmail.com)
+
+📧Email:[priyankams180203@gmail.com](mailto:your-priyankams180203@gmail.com)
 
 ## 🤝 Contributions
 This is an academic assignment project, but contributions, suggestions, and improvements are welcome!
