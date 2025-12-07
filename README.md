@@ -52,7 +52,7 @@ Libraries Used:
 
 ## Author
 Priyanka M S
-[📧 Email Me](mailto:your-priyankams180203@gmail.com)
+[📧 priyankams180203@gmail.com](mailto:your-priyankams180203@gmail.com)
 
 ## 🤝 Contributions
 This is an academic assignment project, but contributions, suggestions, and improvements are welcome!
